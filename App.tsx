@@ -45,7 +45,7 @@ const App: React.FC = () => {
             onPrev={handlePrevStep}
         />
         <footer className="text-center mt-8 text-light-text text-sm">
-          <p>Informe de Validación de MVP</p>
+          <p>Informe de Validación de MVP.</p>
         </footer>
       </div>
     </div>
